@@ -1,0 +1,142 @@
+
+{
+   margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+#header{
+    width: 100%;
+    height: 80px;
+    background-color: skyblue;
+    position: fixed;
+    flex:1;
+    margin-top: 0px ;
+    color: white;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    justify-content: space-around;
+    background: #111111;
+    color: rgba(255, 255, 255, 0.5);
+ 
+  height: 2.05rem;
+}
+.nav{
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+   
+#sobre{ 
+    width: 100%;
+    height: 500px;
+    background-color: skyblue;
+    background-image: url(../imagens/imagem01.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 80px;
+}
+
+
+.titulo{
+    font-family: sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+#empresaTexto{
+    width: 650px;
+    height: 300px;
+    background-color: aquamarine;
+    float: left;
+    margin-right: 50px;
+}
+
+#empresaImagem{
+    width: 350px;
+    height: 300px;
+    background-color: bisque;
+    float: left;
+}
+
+#meio{   
+    width: 100%;
+    height: 450px;
+    background-color: skyblue;
+    
+    
+    background-image: url(../imagens/imagem02.jpg);
+    
+   
+    background-repeat: no-repeat;
+    
+    
+    background-position: center;
+    
+    
+    background-size: cover;
+    
+   
+    background-attachment: fixed;
+}
+
+
+#textoMeio{
+    width: 650px;
+    height: 380px;
+    
+    background-color: rgba(0, 0, 0, 0.3);
+    font-family: verdana;
+    font-size: 1.3em;
+    line-height: 1,5;
+    text-align: center;
+    color: white;
+    
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+
+
+#imagemServico {
+    width: 100%;
+    height: 100%;
+    background-color: skyblue;
+    background-image: url(../imagens/Lab.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 80px;
+}
+
+
+#link{
+    text-decoration: none;
+    
+}
+
+
+#textoPadrao{
+    width: 630px;
+    height: 300px;
+    
+    background-color: rgba(0, 0, 0, 0.3);
+    font-family: verdana;
+    font-size: 1.2em;
+    line-height: 1,5;
+    text-align: center;
+    color: white;
+     margin-left: auto;
+    margin-right: auto;
+    
+    }
+
+    
+     
+
